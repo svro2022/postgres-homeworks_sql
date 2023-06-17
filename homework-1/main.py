@@ -3,7 +3,7 @@ import psycopg2
 import csv
 
 '''Подставьте свой пароль'''
-PASSWORD = '28101984'
+PASSWORD = '12345'
 
 '''Пути к csv файлам'''
 employees_csv = 'north_data/employees_data.csv'
